@@ -1,0 +1,39 @@
+Hi Simon,
+
+I have been working under your supervision ever since the restructure of the FXO team early this year. The three years I worked in HSBC were very rewarding and inspiring. Now, I decide to pursue a master degree in the US and I hope I can get a favorable recommendation from you. I hope my letter can better assist you for your reference letter.
+
+I remember when we first met early this year. I had a very inspiring conversation with you. After I introduced my daily work and my accomplished projects for almost three years ever since my internship in HSBC, you have demonstrated great impression while encourage me to hold on to my solid programming and innovation skills to better serve our new formed FXO department.
+
+Thanks to many opportunities and my own working spirits, I became the Core Developer of the FXO Team, and successfully delivered various FXO projects with great efficiency and comprehensiveness. In addition, during the phase when our department went through unstable employee mobility, I took the challenge to handle the problems caused by insufficient manpower while trained our new staff. 
+
+Among my working achievements this year, I am mostly proud of three projects that greatly altered our technology structure and improved our working efficiency in HSBC. 
+
+Here are the details:
+Project Manager, Building GFX Release Management Automation Website, HSBC	
+	Leading a five people team to build a website to automate the release management process of the GFX Department, successfully delivered the project from scratch in less than a month
+	Designed the website architecture based on Python Django Framework, integrated APIs of several other internal systems in the website, and deployed the website on HSBC internal Cloud (IaaS)
+	Realized management of releases from team members in one site, saved 80% of manpower for repetitive tasks and speed up the overall delivery efficiency of the department
+	Upgraded DevOps level of the whole GFX department, DevOps as a new methodology advocated by the Group Senior Heads emphasizing the communication and collaboration between product management, software development, operations professionals and close alignment with business objectives
+
+Core Developer, HSBC Private Bank FX Options Business Roll Out on Global Banking and Markets System (GBM), HSBC	
+	Direct the flow of Private banking FX Options Business into GBM FX Options systems
+	Translated the business requirements, negotiated with each system owners and found the best implementing solution for multiple systems in GBM FX Options business
+	Built up a flow with new functions without impact current logic of the existing system workflow, an XML trade message distribution and transformation system; optimized the XSLT code to make the trade message workflow system more understandable and robust
+	Worked closely with the Private Bank business colleagues to test the new built functions by adapting the practice of Agile and DevOps
+	Successfully rolled out private bank project and largely improved the competitiveness of HSBC Group in private banking area
+
+Core developer, Traded Risk Reporting Framework Enhancement Project
+The Risk Reporting Framework is typical legacy system. It has a history of more than 10 years, with the contribution from different talents. The code structure and internal logic is very complex. I have been diving into to code and sorted out the logic connection between each part of the components and delivered the enhancement with the satisfactions of our traded risk team colleagues.
+
+Besides my own work assignments, I am also a very helpful colleague among the team. For example, when I finished the Traded Risk Reporting Framework Enhancement Project, many users and colleagues would consult me directly about their questions on the system. I was very happy to help them solve their doubts and share my understanding with them.
+
+And I am also one of the DevOps pioneer in the team, I joined the DevOps Summit of GBM HSBC in Guangzhou this year. I represent the Murex FXO team to share with the audience about the experience of vendor system working model in the topic discussion: ‘Dancing with Elephants’.
+
+Looking back the three years period I have been working at HSBC, I think it’s my solid technology reservation and my strong initiative to try new ideas and technologies that make my thrive in my working position. I had a very valuable time working under your supervision in HSBC, and it’s my honor to be able to participate in shaping its technology system into a better, healthier form.
+
+Thanks again for providing your valuable recommendation.
+
+Best Regards,
+
+Gene
+
